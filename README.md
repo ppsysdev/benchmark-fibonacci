@@ -1,7 +1,9 @@
 # benchmark-exec-time
 Timing the fibonacci series calculations in different programming languages
 
-*Check results from result.html or result.ods file*
+*Check results from result.ods file*
+
+![result.png](https://raw.githubusercontent.com/pskpatil/benchmark-fibonacci/master/result.png)
 
 
 **Reasons for choosing a Fibonacci calculations to test the languages:**
